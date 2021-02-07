@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "nawaz0230",
+        "MONGO_PASSWORD" : "nawaz0230",
+        "MONGO_DEFAULT_DATABASE": "ecommerce",
+        "STRIPE_KEY": "sk_test_KZmXTSiLe8MSpMNQnQ3FbpxR00ZKkIvXOH"
+    }
+}
